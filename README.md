@@ -1,8 +1,4 @@
 # Read me
-<<<<<<< HEAD
-Some entries are added, added on the same line now.
-=======
-Some entries are added
-And, after branching, added some more
-Even more baby
->>>>>>> readme
+Readme completely rewritten from scratch
+adding some lines to see how only the affected part of the file is 
+displayed when resolving conflict
